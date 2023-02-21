@@ -1,4 +1,4 @@
-# Weather App by Leote
+# WeatherApp by Leote
 
 This is a Weather App developed in HTML/CSS and Javascript, using the [OpenWeatherMap](https://openweathermap.org/) free API.
 
