@@ -8,6 +8,6 @@ You can download it directly from GitHub and run it from the index.html file in 
 
 <img src="assets/example.png" width="300" height="auto" alt="Example of the web app">
 
-## Autors/Credit
+## Autors
 
 - [@henriqueleote](https://www.github.com/henriqueleote)
